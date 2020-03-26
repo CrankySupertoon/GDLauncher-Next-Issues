@@ -7,11 +7,13 @@ assignees: ''
 
 ---
 
-**Describe the bug:**
+**Operating System used:**
 
 
 
-**Operating System(s) (OS) used:**
+**Actual behavior:**
+
+
 
 
 **Steps to reproduce the behavior:**
