@@ -1,0 +1,24 @@
+---
+name: Bug report
+about: Create a bug report to help us improve
+title: "[Bug] "
+labels: ''
+assignees: ''
+
+---
+
+**Describe the bug:**
+
+**Steps to reproduce the behavior:**
+
+
+**Expected behavior:**
+
+
+**If applicable, add screenshots/vidoes to help explain:**
+
+
+**Operating System (OS) used:**
+
+**Additional context:**
+<!-- Add any other context about the problem if there is any. -->
