@@ -24,7 +24,7 @@ assignees: ''
 
 
 
-**If applicable, add screenshots/vidoes to help explain:**
+**If applicable, add screenshots/videos to help explain:**
 
 
 
